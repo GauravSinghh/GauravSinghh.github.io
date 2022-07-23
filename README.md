@@ -1,2 +1,2 @@
-# https://gmrpark.github.io/GauravSinghPortfolio/
+# gmrpark.github.io/GauravSinghPortfolio/
 Welcome to my portfolio
