@@ -1,2 +1,2 @@
-# RajaYada00.github.io
+# https://gmrpark.github.io/GauravSinghPortfolio/
 Welcome to my portfolio
