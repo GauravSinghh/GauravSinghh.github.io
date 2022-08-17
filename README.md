@@ -1,3 +1,4 @@
-# gauravsinghh.github.io/GauravSinghPortfolio/
-Welcome to My portfolio base.
-This is Gaurav Singh's Portfolio which says all about me and my work.
+# Welcome to Gaurav's portfolio base.
+
+Below is my Portfolio link  which says all about me and my work.
+https://gauravsinghh.github.io/GauravSinghPortfolio/
